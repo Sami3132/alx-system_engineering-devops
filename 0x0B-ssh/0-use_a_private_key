@@ -1,1 +1,4 @@
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDDrKYEcNPAEE0VfGrvWMBt6tQa2+dc1gjNrLmFxjRVMSK+reJwc1cai4GwifnPPcqxxlirdDX8+P2szTBjZpuE7QYq7OfPlbvEvgPGLJKwbUAdr49TpIa97MKVtCfTym6Z9jdWYSaxy12/9d7PJLCE+bLCR+7FPdg0tUSzr+RpVI8G2fd1eh4+Q8+GHexxBGBPgNMvHhwPnGSPmKLkUilWEdyOIhzbBiIms2xyzdfD3SfrwOprpCFguOuaZpOrFC2/r8pYfy3KNe/bWrLn9VEi+cwx8n8uQlVznCL1iusuYMMXkbiSC4l9fiHiHo6HJD1MgV8YL7tbaNF3LUqVGif9uLIo1ZpraR91ggzOPz2D1zLwAXmEnqnNVlA98Y5Ty99pHtcN4AJKNNei2HSJJ13IMA+33WpiZrXzQgGL4XZUsNCYsspuF0dLZBEuFT7lN+gZONbCotbUhF947XaCIfGb6aqIAayVkOK3wYy5QG+KO+yRo6DZBbC3RNoCAjerDEs= root@77cadda8396c
+#!/usr/bin/env bash
+# Connects to server 54.157.143.47 with key in ~/.ssh/school
+
+ssh -i ~/.ssh/school ubuntu@54.157.143.47
