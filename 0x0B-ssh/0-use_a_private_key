@@ -1,4 +1,1 @@
-#!/usr/bin/env bash
-# Connects to server 34.138.32.248 with key in ~/.ssh/school
-
-ssh -i ~/.ssh/school ubuntu@34.138.32.248
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDOYsUV44lgQ8CrYpoy1zS370oWHBa2LA0r49xDHJB6O+H6WslGPVWXsxjiYpgYsLNJNv6lQMLq+OcrKjGXO7roDvLuoi7lZTNx2MwIeyTwa1X/d/AdxndXRHyXvT+0LS/Qgi5Q6xJ0Q6ZKFZZvVLl1ZefQsMcXFBRwRDoRLjg87uILGnrxIMC6s1fY+E1++BJViyuOvQamEAo7krreibEvq+QXMQf6iRvPYOd84owLYAV5Nxi8nss7RmwXTdRi0e+hk6tBmhv43TytpsGFqdHZK+8OvMlPvWTRsNIL7avoi22xr6WbIhAO2B97gtKnEDBwdLHw33Tgb2FMpqjcB1dOUVkfT7BxqR1uwc7bGaqDRn31Nv15XdvjqSuO7Txj44bLVeZqq5Ubhwn2JkBMBGtBuvTQIihBirb6xjiUF2GsLpQlEP7GE+5ir2+iJcSMzK6nx6jftknFEYYmxMBdaph+URIcqJmfGURCuvY6dh6u+wKS2SDom1D7XOEodUSShq8= samiguish@gmail.com
